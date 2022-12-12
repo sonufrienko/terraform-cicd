@@ -1,2 +1,1 @@
-# terraform-cicd
-Terraform CI/CD with Atlantis
+# Terraform CI/CD with Atlantis
